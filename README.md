@@ -1,5 +1,7 @@
 # Casa Mobile
 
+![](images/social.png)
+
 Textured dark themes for Home Assistant, in 18 colour pairings. Built on Noctis from Clooos Mobile First.
 
 ## Install
